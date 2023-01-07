@@ -31,10 +31,10 @@ I graduated in 2021 with a B.Sc. in Computing Science from the University of Alb
 ### GitHub Stats 📈
 <div align="center"> 
 <a href="https://github.com/haondt/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haondt&show_icons=true&theme=radical&count_private=true&card_width=500&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haondt&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 </a>
   <span></span>
 <a href="https://github.com/haondt/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haondt&hide=java&langs_count=7&layout=compact&theme=radical&card_width=500&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haondt&hide=java&langs_count=7&layout=compact&theme=radical&card_width=300&hide_border=true" />
 </a>
   </div>
