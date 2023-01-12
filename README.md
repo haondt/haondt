@@ -9,7 +9,7 @@
 I graduated in 2021 with a B.Sc. in Computing Science from the University of Alberta, and since then I've been haphazardly jumping from one techstack to the next. I love learning new things and building low-maintenance, easily configurable applications.
 
 ### My Toolbox 👷‍♂️
-
+<table><tr><td>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,7 +26,7 @@ I graduated in 2021 with a B.Sc. in Computing Science from the University of Alb
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+  <td><td>![](https://media.tenor.com/8wBCqZH60U8AAAAC/computer-cat.gif)</td></tr></table>
 
 ### GitHub Stats 📈
   <div align="center">
