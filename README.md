@@ -6,7 +6,7 @@
 
 ### About Me 😁
 
-I graduated in 2021 with a B.Sc. in Computing Science from the University of Alberta, and since then I've been haphazardly jumping from one techstack to the next. I love learning new things and building low-maintenance, easily configurable applications.
+I graduated in 2021 with a B.Sc. in Computing Science from the University of Alberta, and since then I've been haphazardly jumping from one techstack to the next. I love learning new things and building automation tools.
 
 ### My Toolbox 👷‍♂️
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
