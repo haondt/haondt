@@ -1,7 +1,6 @@
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header&text=Noah%20Burghardt&fontColor=fff&fontSize=30&animation=fadeIn" />
+  <h1>Noah Burghardt</h1>
   <p>Probably starting another project 😅</p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=584921&height=1" />
 </div>
 
 ### About Me 😁
