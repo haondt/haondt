@@ -1,11 +1,11 @@
 <div align="center"> 
-  <h1>Noah Burghardt</h1>
+  <h1>Haondt</h1>
   <p>Probably starting another project 😅</p>
 </div>
 
 ### About Me 😁
 
-I graduated in 2021 with a B.Sc. in Computing Science from the University of Alberta, and since then I've been haphazardly jumping from one techstack to the next. I love learning new things and building automation tools.
+Edmonton-based software developer. Currently focused on building automation tools for CI/CD, development workflows and day-to-day tasks.
 
 ### My Toolbox 👷‍♂️
 <div align="center"> 
